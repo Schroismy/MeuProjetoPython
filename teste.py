@@ -1,7 +1,7 @@
 print("Alô Mundo")
 print("Linha 2")
 print("Cesar Schroeder")
-print("Nova linh")
+print("Nova linha")
 
 valor=10
 if valor <= 10:
